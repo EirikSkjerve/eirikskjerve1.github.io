@@ -1,0 +1,40 @@
+ body{
+                background-color: dimgrey;
+                font-family: arial;
+                color: azure;
+            }
+            h1{
+                background-color: darkslategrey;
+                font-size: 60px;
+                margin: -7px;
+            }
+            img{
+                margin-right: 50px;
+                border: 3px solid darkslategrey;
+                filter: contrast(115%);
+            }
+            .rundtBilde{
+                border-radius: 50%;
+                width: 150px;
+                height: 150px;   
+            }
+            th{
+                padding: 20px 55px;
+                border:2px solid darkslategray;
+                background-color: darkgray;
+               
+                
+            }
+            .rundtBilde:hover{
+                width: 153px;
+                height: 153px;
+                box-shadow: black 15px 15px 6px;
+                border: none;               
+}
+p{ 
+color: whitesmoke;
+    padding: 10px;
+}
+audio{
+    margin-right: 1000px;
+}

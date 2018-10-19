@@ -1,0 +1,65 @@
+       
+            
+            a{
+    text-decoration-line: none;
+    color: lightgray;
+    font-size: 15px;
+                margin-left: -7px;
+    
+}
+ body{
+                background-color: dimgrey;
+                font-family: arial;
+                color: azure;
+            }
+            h1{
+                background-color: darkslategray;
+                font-size: 60px;
+                margin: -7px;
+            }
+            img{
+                margin-right: 5px;
+                border: 2.5px solid darkslategray;
+                filter: contrast(115%);
+                margin-top: 7px;
+                
+                
+            }
+            .oxfordbilde{
+                width: 250px;
+                margin-left: 20px;
+            }
+            th{
+                padding: 20px 46px;
+                border:2px solid darkslategray;
+                background-color: darkgray;
+}
+p{
+    padding: 15px;
+}
+
+.oxfordbilde:active{
+    width: 500px;
+}
+         .rundtBilde{
+                border-radius: 50%;
+                width: 100px;
+                height: 100px;
+                margin-right: 25px;
+                margin-left: 25px;
+            }
+            th{
+                padding: 10px 33px;
+                border:2px solid darkslategray;
+                background-color: darkgray;
+                margin-left: -30px
+                
+            }
+            .rundtBilde:hover{
+                width: 105px;
+                height: 105px;
+                box-shadow: black 15px 15px 6px;
+                border: none;
+                
+}
+    
